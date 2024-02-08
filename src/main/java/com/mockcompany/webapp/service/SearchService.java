@@ -16,3 +16,4 @@ public class SearchService {
         return Collections.emptyList();
     }
 }
+
